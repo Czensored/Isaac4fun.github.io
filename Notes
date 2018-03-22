@@ -1,0 +1,7 @@
+How to run the website
+  open terminal
+  type "cd /Users/isalzman/Desktop/Running\ Notes" (Or do just the file path of whatever the folder is that the html is in) (if there is a space put a \ before the space so it knows it is there
+  then type "python -m SimpleHTTPServer 8000"
+  other person puts in another code.
+    find it in Settings>Network>Advanced>TCP/IP> The number after IPv4 Address
+      Brandeis: 192.168.225.196.:8000
